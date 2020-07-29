@@ -2,5 +2,6 @@
 
 configuration：
 
-IDE: Microsoft Visual Studio 2010
+IDE: Microsoft Visual Studio 2010   
+
 lib: OpenCV 2.4.7
